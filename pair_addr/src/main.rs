@@ -11,7 +11,7 @@ use ethers::abi::Abi;
 // PancakeSwap在Arbitrum上的Factory合约地址
 const FACTORY_ADDRESS: &str = "0x02a84c1b3BBD7401a5f7fa98a384EBC70bB5749E";
 // Arbitrum RPC节点URL
-const ARBITRUM_RPC_URL: &str = "https://rpc.ankr.com/arbitrum";
+const ARBITRUM_RPC_URL: &str = "https://rpc.ankr.com/arbitrum/46af0d8bca1783a0b8e8504c6700a5a911e75499e9abbf9ec0da142d4de7e843";
 // 最大并发请求数
 const MAX_CONCURRENT_REQUESTS: usize = 5;
 
