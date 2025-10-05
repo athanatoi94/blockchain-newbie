@@ -1,7 +1,3 @@
-fn main() {
-    println!("Hello, world!");
-}
-
 // 核心类型
 pub type Address = [u8; 20];
 pub type U256 = [u8; 32];
